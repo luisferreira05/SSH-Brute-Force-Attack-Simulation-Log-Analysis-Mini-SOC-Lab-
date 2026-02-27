@@ -43,7 +43,7 @@ A custom wordlist was used to simulate multiple authentication attempts within a
 
 ### Attack Execution
 
-![Attack Execution](screenshots/attack_execution.png)
+![Attack Execution](screenshots/SSH_Brute_Force_Simulation_Execution)
 
 ---
 
