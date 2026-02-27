@@ -63,7 +63,7 @@ sudo cat /var/log/auth.log | grep "Failed password"
 
 ### Log Evidence and Confirmation of No Successful Login
 
-![Failed Attempts](screenshots/failed_attempts.png)
+![Failed Attempts](screenshots/attack__execution.png)
 
 ---
 
