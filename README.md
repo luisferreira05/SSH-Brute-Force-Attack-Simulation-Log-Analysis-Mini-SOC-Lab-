@@ -61,15 +61,9 @@ sudo cat /var/log/auth.log | grep "Failed password"
 - Attempts occurred within seconds
 - No successful authentication observed
 
-### Log Evidence
+### Log Evidence and Confirmation of No Successful Login
 
 ![Failed Attempts](screenshots/failed_attempts.png)
-
-### Confirmation of No Successful Login
-
-sudo cat /var/log/auth.log | grep "Accepted password"
-
-![No Successful Login](screenshots/no_success_login.png)
 
 ---
 
